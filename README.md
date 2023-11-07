@@ -1,2 +1,2 @@
-ankith-bit.github.io
+dealership.github.io
 # dealership
